@@ -2,7 +2,6 @@
 //  FooterCollectionViewCell.swift
 //  SampleAppTest
 //
-//  Created by Lara Kulkarni on 10/30/22.
 //
 
 import SwiftUI
