@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  SampleAppTest
 //
-//  Created by Lara Kulkarni on 10/2/22.
 //
 
 import UIKit
